@@ -1,5 +1,8 @@
 # Weather App
-
+Name :- Abhishek Raj Mishra
+Company:-PM Accelerator
+Company Description
+PM Accelerator is the premier AI learning and development hub, featuring award-winning AI products and mentors from top-tier companies such as Google, Meta, and Apple. We offer a dynamic AI PM Bootcamp, designed to empower the next generation of AI professionals through hands-on experience, mentorship, and real-world projects.
 ## Description
 The Weather App is a simple web application that allows users to search for current weather information by entering the name of a city. It fetches real-time weather data using the OpenWeatherMap API and displays it in a user-friendly format. The app is built using HTML, CSS, and JavaScript.
 
